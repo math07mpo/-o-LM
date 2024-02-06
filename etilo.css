@@ -4,19 +4,20 @@
 body{
     background-color: white;
     font-size: 25px;
-    color: yellow;
+    
 }
 
 .cabecalho{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    color: black;
+   
 }
 
 .cabecalho-lista{
     display: flex;
     list-style-type: none;
+    color: red;
 }
 
 .cabecalho-logo{
